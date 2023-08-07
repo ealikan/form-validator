@@ -1,0 +1,35 @@
+.card {
+    
+    border-radius: 35px;
+}
+
+
+.card-header{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    align-self: center;
+   
+
+}
+
+.card-body{
+    justify-content: center;
+    align-self: center;
+    width: 75%;
+}
+
+.card-header img{
+    width: 25%;
+}
+
+#oturumac{
+    border-radius: 50px;
+}
+
+
+
+
+
+
